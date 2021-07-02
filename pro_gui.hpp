@@ -1,8 +1,4 @@
-/*
-Name: Archit Kalpeshkumar Jaiswal
-UTA ID: 1001543326
-HW5
-*/
+
 #ifndef _CLOSET_FUNC_C
 #define _CLOSET_FUNC_C
 #include <iostream>
